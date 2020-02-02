@@ -1,0 +1,71 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+header{
+  padding: 20px;
+  background-color: #555555;
+  color: white;
+  text-align: center;
+  letter-spacing: 0.05em;
+  font-size: 1.4em;
+}
+body{
+  text-align: center;
+  background-color: #c0c0c0;
+}
+.push{
+  height: 80px;
+}
+.push_2{
+  height:20px;
+}
+.push_3{
+  height:40px;
+}
+.name{
+  margin: 10px;
+  padding: 10px;
+}
+.form_size{
+  /* width: 130px; */
+  /* height: 30px; */
+  padding: 10px 30px;
+  font: 1.2em MS ゴシック;
+
+}
+.button_size{
+  margin: 5px;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 10px 30px;
+  border-style: none;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+.button_set{
+  margin: 5px;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 10px 30px;
+  color: #fff;
+  border-style: none;
+  box-shadow: 2px 2px 3px 1px #666;
+  -moz-box-shadow: 2px 2px 3px 1px #666;
+  -webkit-box-shadow: 2px 2px 3px 1px #666;
+  text-shadow: 1px 1px 2px #000;
+  background: -moz-linear-gradient(bottom, #36d, #248 50%, #36d);
+  background: -webkit-gradient(linear, left bottom, left top, from(#36d), color-stop(0.5, #248), to(#36d));
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+footer{
+  padding: 10px;
+  background-color: #555555;
+  color: white;
+  text-align: center;
+  letter-spacing: 0.05em;
+  font-size: 1.1em;
+}
